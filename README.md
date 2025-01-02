@@ -1,0 +1,2 @@
+TranslatorExtension
+   - The TranslatorExtension is a Chrome extension designed to help users quickly translate text between different languages directly within their browser. With a simple and intuitive user interface, users can input text, select a source language, and choose a target language for translation. The extension connects to a translation API  to provide real-time translations, displaying the results within the extension popup.
